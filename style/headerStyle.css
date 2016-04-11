@@ -1,0 +1,24 @@
+.padding10{
+    padding:10px;
+}
+
+@font-face {
+    font-family: main_font;
+    src: url('/style/Canterbury.ttf');
+}
+
+.mcn-font{
+    font-family: main_font;
+}
+
+.font32{
+    font-size:32px;
+}
+
+.paddingT7{
+      padding-top:7px;
+}
+
+.pointerClass{
+    cursor:pointer;
+}
