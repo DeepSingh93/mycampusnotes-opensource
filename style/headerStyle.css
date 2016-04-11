@@ -1,5 +1,5 @@
-.padding10{
-    padding:10px;
+.padding10 {
+    padding: 10px;
 }
 
 @font-face {
@@ -7,18 +7,58 @@
     src: url('/style/Canterbury.ttf');
 }
 
-.mcn-font{
+.mcn-font {
     font-family: main_font;
 }
 
-.font32{
-    font-size:32px;
+.font32 {
+    font-size: 32px;
 }
 
-.paddingT7{
-      padding-top:7px;
+.paddingT7 {
+    padding-top: 7px;
 }
 
-.pointerClass{
-    cursor:pointer;
+.pointerClass {
+    cursor: pointer;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.no-right-padding {
+    padding-right: 0px;
+}
+
+.no-padding-left {
+    padding-left: 0px;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.clean-a{
+    text-decoration: none;
+}
+
+.white{
+    color:white;
+}
+
+.font22{
+    font-size:22px;
+}
+
+.font15{
+    font-size:15px;
+}
+
+.paddingleft10{
+    padding-left:10px;
 }
