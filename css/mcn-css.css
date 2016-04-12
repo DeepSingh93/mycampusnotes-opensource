@@ -1,0 +1,24 @@
+.width100 {
+    width: 100% !important;
+}
+
+@font-face {
+    font-family: main_font;
+    src: url('/font/Canterbury.ttf');
+}
+
+.main-font{
+    font-family: main_font;
+}
+
+.paddingL10{
+    padding-left:10px;
+}
+
+.padding10{
+    padding:10px;
+}
+
+.font10{
+    font-size:10px;
+}
